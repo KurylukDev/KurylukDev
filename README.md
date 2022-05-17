@@ -25,6 +25,7 @@ Full-Stack Developer
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/css.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/javascript.jpg' height='38px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/boostrap.png' height='42px'>
+  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/nodejs.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/sass.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/react.png' height='42px'>
 </p>
@@ -35,7 +36,6 @@ Full-Stack Developer
 <p align="center">
     <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/typescript.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/sql.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/nodejs.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/mongo.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/express.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/react-native-logo.png' height='42px'/>
