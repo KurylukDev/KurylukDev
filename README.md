@@ -1,9 +1,9 @@
-<img align='left' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>  
-<img align='right' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>  
+<img align='right' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>
+<img align='left' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>
 
 # BIO
 hi, I am Simon Femia Kuryluk
-Full-Stack Developer
+Full-Stack Developer 
   
 
 🧉 Lover of Mate, 📱 Mobile, 🎵 Music  
