@@ -1,13 +1,12 @@
-<img align='right' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>
-<img align='left' src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='25%'>
-
+<img align="right" src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='100%'> 
+<img align="left" src='https://github.com/KurylukDev/KurylukDev/blob/main/gif/argentum-online-rahma-na-arak--unscreen.gif' width='100%'>
 # BIO
-hi, I am Simon Femia Kuryluk
-Full-Stack Developer 
+<p align="center">hi, I am Simon Femia Kuryluk</p>
+<p align="center">Full-Stack Developer</p>
   
 
-🧉 Lover of Mate, 📱 Mobile, 🎵 Music  
-💻 Full-Stack, 🖥️ Pc Modding.  
+<p align="center">🧉 Lover of Mate, 📱 Mobile, 🎵 Music  
+💻 Full-Stack, 🖥️ Pc Modding.</p>
   
 ![](https://komarev.com/ghpvc/?username=KurylukDev&color=red)
 
@@ -34,7 +33,7 @@ Full-Stack Developer
 <p align="center">I am learning.</p>
 
 <p align="center">
-    <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/typescript.png' height='42px'>
+   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/typescript.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/sql.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/mongo.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/express.png' height='42px'>
