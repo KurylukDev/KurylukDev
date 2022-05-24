@@ -1,5 +1,5 @@
- 
-# BIO
+<img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/matemate.png" height="300px" width="100%" > 
+<h2 align="center"># BIO</h2>
 <p align="center">hi, I am Simon Femia Kuryluk</p>
 <p align="center">Full-Stack Developer</p> 
   
