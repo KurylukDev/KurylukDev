@@ -7,7 +7,7 @@
 <p align="center">Full-Stack Developer</p> 
   
 
-<p align="center">🧉 Lover of Mate, 📱 Mobile, 🎵 Music  </p>
+<p align="center">🧉 Mate Lover, 📱 Mobile, 🎵 Music  </p>
 <p align="center">💻 Full-Stack, 🖥️ Pc Modding. </p>
 
 ![](https://komarev.com/ghpvc/?username=KurylukDev&color=green)
