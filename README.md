@@ -46,7 +46,7 @@
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/mongo.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/express.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/python.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/flask.png' height='42px'>
+  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/django.png' height='42px'>
 </p>
 
 
