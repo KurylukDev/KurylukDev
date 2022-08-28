@@ -26,23 +26,26 @@
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/css.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/javascript.jpg' height='38px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/boostrap.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/nodejs.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/sass.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/react.png' height='42px'>
 </p>
 
-<h2 align="center">Learning</h2>
-<p align="center">I am learning.</p>
+<h2 align="center">I'm learning.</h2>
 
 <p align="center">
     <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/typescript.png' height='42px'>
+  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/react-native-logo.png' height='42px'/>
+</p>
+
+<h2 align="center">I'm interested in learning</h2>
+<p align="center">I'm learning</p>
+
+<p align="center">
+  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/nodejs.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/sql.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/mongo.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/express.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/react-native-logo.png' height='42px'/>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/python.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/php.png' height='42px'>
-  <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/Java-logo.png' height='42px'>
   <img src='https://github.com/KurylukDev/KurylukDev/blob/main/skills/flask.png' height='42px'>
 </p>
 
