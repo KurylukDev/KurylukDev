@@ -1,7 +1,7 @@
 <p>
   <img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" height="250px" />
   <img align="right" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" height="250px" />
-  <h2 align="center"># Mate Lover</h2>
+  <h2 align="center">Mate Lover</h2>
 </p>
 <p align="center">hi, I am Simon Femia Kuryluk</p>
 <p align="center">Full-Stack Developer</p> 
