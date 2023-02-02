@@ -1,4 +1,4 @@
-<img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" width="100px" height="153px" />
+<img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" width="100px" height="150px" />
 
 ### Simon Femia Kuryluk
 I'm a developer whit experence in Javascript, React and Node.
