@@ -3,7 +3,7 @@
 ### Simon Femia Kuryluk
 **Full-Stack Developer**
 
-I am a programmer from Argentina who likes to develop 💻 APIs, 💜 utilities for People, 🎮 games, 💸 crypto and many more varied things that come from my imagination.
+I am a programmer from Argentina who likes to develop 💜 services for People, 🌐 useful websites, 💸 crypto and many more varied things that come from my imagination.
 I am very passionate about 💻​ web programming and 📱​ mobile.
 
 ---
