@@ -1,10 +1,9 @@
 <img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" width="100px" height="170px" />
 
 ### Simon Femia Kuryluk
-**Full-Stack Developer**
+I'm a developer whit experence in Javascript, React and Node.
 
-I am a programmer from Argentina who likes to develop 💜 services for People, 🌐 useful websites, 💸 crypto and many more varied things that come from my imagination.
-I am very passionate about 💻​ web programming and 📱​ mobile.
+<img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/pin.png"/> CABA, Argentina. <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/terminal%20(1).png"/> Almost 3 months Experience. <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/briefcase.png"/> looking for a job.
 
 ---
 **Contact:**
@@ -14,8 +13,8 @@ I am very passionate about 💻​ web programming and 📱​ mobile.
 <a href="https://kuryluk-web.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-575757?logo=azurepipelines&logoColor=fff&style=flat-square#485A62"/></a>
 <a href="simonfk2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-575757?logo=gmail&logoColor=fff&style=flat-square#485A62"/></a>
 ---
-🧉 Mate Lover, 📱 Mobile, 🎵 Music
-💻 Full-Stack, 🖥️ Pc Modding.
+I am a programmer from Argentina who likes to develop 💜 services for People, 🌐 useful websites, 💸 crypto and many more varied things that come from my imagination.
+I am very passionate about 💻​ web programming and 📱​ mobile.
 
 ![](https://komarev.com/ghpvc/?username=KurylukDev&color=green)
 
