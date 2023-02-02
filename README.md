@@ -11,7 +11,7 @@ I'm a developer whit experence in Javascript, React and Node.
 <a href="https://twitter.com/SifekTft"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSifekTft"/></a>
 <a href="https://www.linkedin.com/in/simon-femia-kuryluk/"><img src="https://img.shields.io/badge/LinkedIn-575757?logo=linkedin&logoColor=fff&style=flat-square#485A62"/></a>
 <a href="https://kuryluk-web.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-575757?logo=azurepipelines&logoColor=fff&style=flat-square#485A62"/></a>
-<a href="simonfk2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-575757?logo=gmail&logoColor=fff&style=flat-square#485A62"/></a>
+<a href="mailto:simonfk2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-575757?logo=gmail&logoColor=fff&style=flat-square#485A62"/></a>
 ---
 I am a programmer from Argentina who likes to develop 💜 services for People, 🌐 useful websites, 💸 crypto and many more varied things that come from my imagination.
 I am very passionate about 💻​ web programming and 📱​ mobile.
