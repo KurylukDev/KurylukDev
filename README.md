@@ -42,4 +42,9 @@ I am very passionate about 💻​ web programming and 📱​ mobile.
 ![MySQL](https://img.shields.io/badge/MySQL-575757?logo=mysql&logoColor=fff&style=flat-square#956f2e0)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-575757?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
 
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KurylukDev" alt="KurylukDev" /></a> </p>
+
+
 
