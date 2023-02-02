@@ -46,5 +46,9 @@ I am very passionate about 💻​ web programming and 📱​ mobile.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KurylukDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
-
+<div>
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=KurylukDev&count_private=true&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurylukDev&layout=compact" />
+</div>
