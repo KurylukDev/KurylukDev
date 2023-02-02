@@ -1,4 +1,4 @@
-<img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" width="100px" />
+<img align="left" src="https://media4.giphy.com/media/KzF5RL2nH3zKCJV1wR/giphy.gif?cid=790b7611f0807735047063f4c585d1adebf401f22ce9e975&rid=giphy.gif&ct=s" alt="animated" width="100px" height="170px" />
 
 ### Simon Femia Kuryluk
 **Full-Stack Developer**
@@ -34,14 +34,7 @@ I am very passionate about 💻​ web programming and 📱​ mobile.
 ![TypeScript](https://img.shields.io/badge/TypeScript-575757?logo=typescript&logoColor=fff&style=flat-square#956f2e0)
 ![Git](https://img.shields.io/badge/Git-575757?logo=git&logoColor=fff&style=flat-square#956f2e0)
 ![GitHub](https://img.shields.io/badge/GitHub-575757?logo=github&logoColor=fff&style=flat-square#956f2e0)
-<div align="center">
-<h2 align="center">Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
-  
-| <a href="" target="_blank">**Pokedex**</a> | <a href="" target="_blank">**PasswordSave**</a> | <a href="" target="_blank">**Discord Bot**</a> |
-| :---: | :---: | :---: |
-<img align='center' src='https://files.cults3d.com/uploaders/19933232/illustration-file/58d154fb-ebc1-4f8b-bd76-a53f7c5c1ef5/2022_01_17_00_12_48_Pokéball_normal.pdf_et_1_page_supplémentaire_Personnel_Microsoft_Edge.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://images.ctfassets.net/lzny33ho1g45/password-security-p-img/72f3ab78724796a0990219ee8ed495c7/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760' height='100px'>  | <img align='center' src='https://www.ecured.cu/images/f/f5/Bot.jpg' width="100px" height='100px'>
-</div>
+
 
 ### Learning
 ![Node.js](https://img.shields.io/badge/Node.js-575757?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
