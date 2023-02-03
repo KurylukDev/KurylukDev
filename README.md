@@ -33,6 +33,37 @@ I am very passionate about 💻​ web programming and 📱​ mobile.
 ![Git](https://img.shields.io/badge/Git-575757?logo=git&logoColor=fff&style=flat-square#956f2e0)
 ![GitHub](https://img.shields.io/badge/GitHub-575757?logo=github&logoColor=fff&style=flat-square#956f2e0)
 
+___
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="SecretStore" src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/logo.jpg"/>](soon)
+
+**SecretStore E-commerce Frontend** \
+[**SecretStore**](soon) • Contract \
+Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
+<br/>
+<br/>
+
+
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](soon)
+
+**KTR E-commerce Full-Stack** \
+[**KTR**](soon) • Contract \
+Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` `Node` `Express` `MongoDB` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Medicina" src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/medical.jpg"/>]()
+
+**Landing Page Medical** \
+[**Medical**](soon) • Contract \
+Languages & Technologies: `HTML` `CSS` `Tailwind` `JavaScript` `React` `Javascript` \
+<br/>
+<br/>
+
+___
 
 ### Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-575757?logo=typescript&logoColor=fff&style=flat-square#956f2e0)
