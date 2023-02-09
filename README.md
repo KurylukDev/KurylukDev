@@ -51,7 +51,7 @@ Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
 
 **KTR E-commerce Full-Stack** \
 [**KTR**](soon) • Contract \
-Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` `Node` `Express` `MongoDB` \
+Languages & Technologies: `HTML` `CSS` `Bootstrap` `Javascript` `React` `Node` `Express` `MongoDB` \
 <br/>
 <br/>
 
