@@ -37,7 +37,7 @@ ___
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="SecretStore" src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/logo.jpg"/>](soon)
+[<img align="left" height="94px" width="94px" alt="SecretStore" src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/secretstore.jpg"/>](soon)
 
 **SecretStore E-commerce Frontend** \
 [**SecretStore**](soon) • Contract \
