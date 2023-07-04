@@ -46,10 +46,6 @@ Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
 <br/>
 
 
-
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](soon)
-
-
 ___
 
 ### Learning
