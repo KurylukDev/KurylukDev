@@ -49,19 +49,6 @@ Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](soon)
 
-**KTR E-commerce Full-Stack** \
-[**KTR**](soon) • Contract \
-Languages & Technologies: `HTML` `CSS` `Bootstrap` `Javascript` `React` `Node` `Express` `MongoDB` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Medicina" src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/medical.jpg"/>]()
-
-**Landing Page Medical** \
-[**Medical**](soon) • Contract \
-Languages & Technologies: `HTML` `CSS` `Tailwind` `JavaScript` `React` `Javascript` \
-<br/>
-<br/>
 
 ___
 
