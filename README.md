@@ -51,8 +51,12 @@ Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
 ___
 
 ### Learning
-![Java](https://img.shields.io/badge/Java-575757?logo=gitea&logoColor=fff&style=flat-square#956f2e0)
-![Spring](https://img.shields.io/badge/spring-575757?logo=spring&logoColor=fff&style=flat-square#956f2e0)
+![TypeScript](https://img.shields.io/badge/TypeScript-575757?logo=typescript&logoColor=fff&style=flat-square#956f2e0)
+![Node.js](https://img.shields.io/badge/Node.js-575757?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
+![MongoDB](https://img.shields.io/badge/MongoDB-575757?logo=mongodb&logoColor=fff&style=flat-square#956f2e0) 
+![Express](https://img.shields.io/badge/Express-575757?logo=express&logoColor=fff&style=flat-square#956f2e0)
+![MySQL](https://img.shields.io/badge/MySQL-575757?logo=mysql&logoColor=fff&style=flat-square#956f2e0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-575757?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
 
 ---
 
