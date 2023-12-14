@@ -43,7 +43,7 @@ In the overview below you will find my most recent work experience:
 
 **SecretStore E-commerce Frontend** \
 [**SecretStore**](soon) • Contract \
-Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` \
+Languages & Technologies: `HTML` `CSS` `Tailwind` `Javascript` `React` `Node.js` `Express` `PostgreSQL`\
 <br/>
 <br/>
 
