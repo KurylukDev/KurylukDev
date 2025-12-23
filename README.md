@@ -3,7 +3,7 @@
 ### Simon Femia Kuryluk
 I'm a developer whit experence in Javascript, React and Node.
 
-<img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/pin.png"/> <sub>CABA, Argentina.</sub> <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/terminal%20(1).png"/> <sub> Almost 3 months Experience.</sub> <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/briefcase.png"/> <sub> looking for a job.</sub>
+<img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/pin.png"/> <sub>CABA, Argentina.</sub> <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/terminal%20(1).png"/> <sub> A lot Experience.</sub> <img src="https://github.com/KurylukDev/KurylukDev/blob/main/gif/briefcase.png"/> <sub> looking for a job.</sub>
 
 ---
 **Contact**
